@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyAhi" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/lightblue</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/deeporange</item>
+        <item name="colorOnSecondary">@color/black</item>
+    </style>
+</resources>

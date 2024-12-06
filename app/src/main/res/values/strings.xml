@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MyStoryApp</string>
+    <string name="signup">Sign Up</string>
+    <string name="signup2">Register</string>
+    <string name="login">Masuk</string>
+    <string name="login2">Login ke StoryApp</string>
+    <string name="message_welcome_page">Mari kita berbagi keluh kesan kita di story app ini !</string>
+    <string name="title_welcome_page">Selamat Datang di StoryApp!</string>
+    <string name="title_signup_page">Isi data dirimu dengan lengkap</string>
+    <string name="email">Alamat Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="message_login_page">Silakan masukkan data Anda terlebih dahulu</string>
+    <string name="title_login_page">Siap untuk membagikan kisah Anda?</string>
+    <string name="name">Nama Lengkap</string>
+    <string name="logout">Keluar</string>
+    <string name="loginpage">LoginPage</string>
+    <string name="register_logo">register logo</string>
+    <string name="register_gagal">Registrasi gagal</string>
+    <string name="kembali">Kembali</string>
+    <string name="empty_image_warning">Image is empty</string>
+    <string name="story_description">story description</string>
+    <string name="story_title">title</string>
+    <string name="image_stories">Image stories</string>
+    <string name="title_story">Title Story</string>
+    <string name="camera">open camera</string>
+    <string name="galerry">open galerry</string>
+    <string name="upload">Upload</string>
+
+</resources>
